@@ -25,4 +25,4 @@ Projektā tiek definētas šādas datu struktūras:
 4. **Atkārtoti mēģinājumi**: Gadījumā, ja pieprasījumi neizdodas, programmatūra veic atkārtotus mēģinājumus (`MAX_RETRIES`) un gaida (`time.sleep(5)`), lai nodrošinātu stabilu darbību.
 
 ---
-n gaida (time.sleep(5)), lai nodrošinātu stabilu darbību.
+
