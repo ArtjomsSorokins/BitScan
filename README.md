@@ -26,3 +26,10 @@ Projektā tiek definētas šādas datu struktūras:
 
 ---
 
+Autori
+
+Artjoms Sorokins
+
+Davids Jākobsons
+
+Ņikita Platicins
